@@ -88,3 +88,27 @@ Risk level is calculated based on:
 Top 5 Suspicious IPs:
 192.168.1.10    12 failed attempts
 10.0.0.5        9 failed attempts
+```
+## Future Improvements
+
+- GeoIP lookup for IP addresses
+- IP reputation / blacklist checking
+- Email alerting for high-risk activity
+- Real-time log monitoring (`tail -f`)
+- Docker container deployment
+- Unit testing with pytest
+- Web dashboard for visualization
+- SIEM integration (Splunk / ELK)
+
+---
+
+## Author
+
+**Nick Torres**  
+GitHub: [@thenicktorres](https://github.com/thenicktorres)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
