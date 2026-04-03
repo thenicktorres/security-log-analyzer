@@ -53,7 +53,7 @@ security-log-analyzer/
 ├── README.md            # Project documentation
 ├── output/              # Generated reports
 └── .git/                # Git repository
-
+```
 ---
 
 ## Detection Logic
